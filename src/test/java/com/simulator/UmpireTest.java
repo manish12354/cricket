@@ -14,7 +14,6 @@ public class UmpireTest {
   @Before
   public void setUp() {
     listeners = new Listeners ();
-    listeners.add(new ScoreBoard ());
     umpire = new Umpire ( listeners );
   }
 
