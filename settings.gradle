@@ -1,0 +1,4 @@
+rootProject.name = 'cricket'
+include 'com.tw.cricket'
+findProject(':com.tw.cricket')?.name = 'cricket'
+

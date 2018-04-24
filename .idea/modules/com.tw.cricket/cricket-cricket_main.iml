@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module version="4">
+  <component name="ExternalSystem" externalSystem="GRADLE" externalSystemModuleGroup="com.tw.cricket" externalSystemModuleType="sourceSet" externalSystemModuleVersion="1.0-SNAPSHOT" linkedProjectId=":cricket:main" linkedProjectPath="$MODULE_DIR$/../../../com.tw.cricket" rootProjectPath="$MODULE_DIR$/../../.." />
+  <component name="NewModuleRootManager" LANGUAGE_LEVEL="JDK_1_8">
+    <output url="file://$MODULE_DIR$/../../../com.tw.cricket/out/production/classes" />
+    <exclude-output />
+    <content url="file://$MODULE_DIR$/../../../com.tw.cricket/src/main">
+      <sourceFolder url="file://$MODULE_DIR$/../../../com.tw.cricket/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../com.tw.cricket/src/main/resources" type="java-resource" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
